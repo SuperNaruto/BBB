@@ -7,9 +7,13 @@ public class MainActivity extends AppCompatActivity {
     //完成注册
     String m;
 
+    // 刘博登录
+    String m;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        m += "asdads";
+
     }
 }
